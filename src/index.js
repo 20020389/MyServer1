@@ -31,7 +31,7 @@ app.use(bodyParser.json())
 
 //apply reatjs post
 app.use(cors({
-   origin: "http://localhost:3000",
+   origin: "https://20020389.github.io",
    credentials: "true"
 }))
 
