@@ -1,0 +1,1149 @@
+{
+   "totals": 50,
+   "results": [
+      {
+         "id": 19,
+         "name": "slightly smiling face",
+         "emoji": "🙂",
+         "unicode": "1F642",
+         "count": 65,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 1,
+            "name": "face-positive"
+         },
+         "children": []
+      },
+      {
+         "id": 16,
+         "name": "kissing face with smiling eyes",
+         "emoji": "😙",
+         "unicode": "1F619",
+         "count": 62,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 1,
+            "name": "face-positive"
+         },
+         "children": []
+      },
+      {
+         "id": 13,
+         "name": "smiling face with heart-eyes",
+         "emoji": "😍",
+         "unicode": "1F60D",
+         "count": 61,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 1,
+            "name": "face-positive"
+         },
+         "children": []
+      },
+      {
+         "id": 1,
+         "name": "grinning face",
+         "emoji": "😀",
+         "unicode": "1F600",
+         "count": 55,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 1,
+            "name": "face-positive"
+         },
+         "children": []
+      },
+      {
+         "id": 2,
+         "name": "beaming face with smiling eyes",
+         "emoji": "😁",
+         "unicode": "1F601",
+         "count": 55,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 1,
+            "name": "face-positive"
+         },
+         "children": []
+      },
+      {
+         "id": 3,
+         "name": "face with tears of joy",
+         "emoji": "😂",
+         "unicode": "1F602",
+         "count": 55,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 1,
+            "name": "face-positive"
+         },
+         "children": []
+      },
+      {
+         "id": 6,
+         "name": "grinning face with smiling eyes",
+         "emoji": "😄",
+         "unicode": "1F604",
+         "count": 55,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 1,
+            "name": "face-positive"
+         },
+         "children": []
+      },
+      {
+         "id": 10,
+         "name": "smiling face with smiling eyes",
+         "emoji": "😊",
+         "unicode": "1F60A",
+         "count": 55,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 1,
+            "name": "face-positive"
+         },
+         "children": []
+      },
+      {
+         "id": 12,
+         "name": "smiling face with sunglasses",
+         "emoji": "😎",
+         "unicode": "1F60E",
+         "count": 53,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 1,
+            "name": "face-positive"
+         },
+         "children": []
+      },
+      {
+         "id": 4,
+         "name": "rolling on the floor laughing",
+         "emoji": "🤣",
+         "unicode": "1F923",
+         "count": 52,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 1,
+            "name": "face-positive"
+         },
+         "children": []
+      },
+      {
+         "id": 5,
+         "name": "grinning face with big eyes",
+         "emoji": "😃",
+         "unicode": "1F603",
+         "count": 52,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 1,
+            "name": "face-positive"
+         },
+         "children": []
+      },
+      {
+         "id": 7,
+         "name": "grinning face with sweat",
+         "emoji": "😅",
+         "unicode": "1F605",
+         "count": 51,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 1,
+            "name": "face-positive"
+         },
+         "children": []
+      },
+      {
+         "id": 8,
+         "name": "grinning squinting face",
+         "emoji": "😆",
+         "unicode": "1F606",
+         "count": 51,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 1,
+            "name": "face-positive"
+         },
+         "children": []
+      },
+      {
+         "id": 29,
+         "name": "persevering face",
+         "emoji": "😣",
+         "unicode": "1F623",
+         "count": 7,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 30,
+         "name": "sad but relieved face",
+         "emoji": "😥",
+         "unicode": "1F625",
+         "count": 7,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 55,
+         "name": "crying face",
+         "emoji": "😢",
+         "unicode": "1F622",
+         "count": 7,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 3,
+            "name": "face-negative"
+         },
+         "children": []
+      },
+      {
+         "id": 56,
+         "name": "loudly crying face",
+         "emoji": "😭",
+         "unicode": "1F62D",
+         "count": 7,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 3,
+            "name": "face-negative"
+         },
+         "children": []
+      },
+      {
+         "id": 14,
+         "name": "face blowing a kiss",
+         "emoji": "😘",
+         "unicode": "1F618",
+         "count": 4,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 1,
+            "name": "face-positive"
+         },
+         "children": []
+      },
+      {
+         "id": 28,
+         "name": "smirking face",
+         "emoji": "😏",
+         "unicode": "1F60F",
+         "count": 4,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 17,
+         "name": "kissing face with closed eyes",
+         "emoji": "😚",
+         "unicode": "1F61A",
+         "count": 3,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 1,
+            "name": "face-positive"
+         },
+         "children": []
+      },
+      {
+         "id": 15,
+         "name": "kissing face",
+         "emoji": "😗",
+         "unicode": "1F617",
+         "count": 2,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 1,
+            "name": "face-positive"
+         },
+         "children": []
+      },
+      {
+         "id": 31,
+         "name": "face with open mouth",
+         "emoji": "😮",
+         "unicode": "1F62E",
+         "count": 2,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 57,
+         "name": "frowning face with open mouth",
+         "emoji": "😦",
+         "unicode": "1F626",
+         "count": 2,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 3,
+            "name": "face-negative"
+         },
+         "children": []
+      },
+      {
+         "id": 69,
+         "name": "angry face",
+         "emoji": "😠",
+         "unicode": "1F620",
+         "count": 2,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 3,
+            "name": "face-negative"
+         },
+         "children": []
+      },
+      {
+         "id": 27,
+         "name": "face with rolling eyes",
+         "emoji": "🙄",
+         "unicode": "1F644",
+         "count": 1,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 58,
+         "name": "anguished face",
+         "emoji": "😧",
+         "unicode": "1F627",
+         "count": 1,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 3,
+            "name": "face-negative"
+         },
+         "children": []
+      },
+      {
+         "id": 22,
+         "name": "thinking face",
+         "emoji": "🤔",
+         "unicode": "1F914",
+         "count": 0,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 36,
+         "name": "sleeping face",
+         "emoji": "😴",
+         "unicode": "1F634",
+         "count": 0,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 23,
+         "name": "face with raised eyebrow",
+         "emoji": "🤨",
+         "unicode": "1F928",
+         "count": 0,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 37,
+         "name": "relieved face",
+         "emoji": "😌",
+         "unicode": "1F60C",
+         "count": 0,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 24,
+         "name": "neutral face",
+         "emoji": "😐",
+         "unicode": "1F610",
+         "count": 0,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 38,
+         "name": "face with tongue",
+         "emoji": "😛",
+         "unicode": "1F61B",
+         "count": 0,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 39,
+         "name": "winking face with tongue",
+         "emoji": "😜",
+         "unicode": "1F61C",
+         "count": 0,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 40,
+         "name": "squinting face with tongue",
+         "emoji": "😝",
+         "unicode": "1F61D",
+         "count": 0,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 25,
+         "name": "expressionless face",
+         "emoji": "😑",
+         "unicode": "1F611",
+         "count": 0,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 41,
+         "name": "drooling face",
+         "emoji": "🤤",
+         "unicode": "1F924",
+         "count": 0,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 26,
+         "name": "face without mouth",
+         "emoji": "😶",
+         "unicode": "1F636",
+         "count": 0,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 42,
+         "name": "unamused face",
+         "emoji": "😒",
+         "unicode": "1F612",
+         "count": 0,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 9,
+         "name": "winking face",
+         "emoji": "😉",
+         "unicode": "1F609",
+         "count": 0,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 1,
+            "name": "face-positive"
+         },
+         "children": []
+      },
+      {
+         "id": 32,
+         "name": "zipper-mouth face",
+         "emoji": "🤐",
+         "unicode": "1F910",
+         "count": 0,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 43,
+         "name": "downcast face with sweat",
+         "emoji": "😓",
+         "unicode": "1F613",
+         "count": 0,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 11,
+         "name": "face savoring food",
+         "emoji": "😋",
+         "unicode": "1F60B",
+         "count": 0,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 1,
+            "name": "face-positive"
+         },
+         "children": []
+      },
+      {
+         "id": 33,
+         "name": "hushed face",
+         "emoji": "😯",
+         "unicode": "1F62F",
+         "count": 0,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 44,
+         "name": "pensive face",
+         "emoji": "😔",
+         "unicode": "1F614",
+         "count": 0,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 20,
+         "name": "hugging face",
+         "emoji": "🤗",
+         "unicode": "1F917",
+         "count": 0,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 1,
+            "name": "face-positive"
+         },
+         "children": []
+      },
+      {
+         "id": 34,
+         "name": "sleepy face",
+         "emoji": "😪",
+         "unicode": "1F62A",
+         "count": 0,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 45,
+         "name": "confused face",
+         "emoji": "😕",
+         "unicode": "1F615",
+         "count": 0,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 21,
+         "name": "star-struck",
+         "emoji": "🤩",
+         "unicode": "1F929",
+         "count": 0,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 1,
+            "name": "face-positive"
+         },
+         "children": []
+      },
+      {
+         "id": 35,
+         "name": "tired face",
+         "emoji": "😫",
+         "unicode": "1F62B",
+         "count": 0,
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 2,
+            "name": "face-neutral"
+         },
+         "children": []
+      },
+      {
+         "id": 91,
+         "name": "ghost",
+         "emoji": "👻",
+         "unicode": "1F47B",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 6,
+            "name": "face-fantasy"
+         },
+         "children": []
+      },
+      {
+         "id": 89,
+         "name": "skull",
+         "emoji": "💀",
+         "unicode": "1F480",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 6,
+            "name": "face-fantasy"
+         },
+         "children": []
+      },
+      {
+         "id": 79,
+         "name": "lying face",
+         "emoji": "🤥",
+         "unicode": "1F925",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 5,
+            "name": "face-role"
+         },
+         "children": []
+      },
+      {
+         "id": 72,
+         "name": "face with thermometer",
+         "emoji": "🤒",
+         "unicode": "1F912",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 4,
+            "name": "face-sick"
+         },
+         "children": []
+      },
+      {
+         "id": 84,
+         "name": "smiling face with horns",
+         "emoji": "😈",
+         "unicode": "1F608",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 6,
+            "name": "face-fantasy"
+         },
+         "children": []
+      },
+      {
+         "id": 77,
+         "name": "smiling face with halo",
+         "emoji": "😇",
+         "unicode": "1F607",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 5,
+            "name": "face-role"
+         },
+         "children": []
+      },
+      {
+         "id": 73,
+         "name": "face with head-bandage",
+         "emoji": "🤕",
+         "unicode": "1F915",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 4,
+            "name": "face-sick"
+         },
+         "children": []
+      },
+      {
+         "id": 86,
+         "name": "clown face",
+         "emoji": "🤡",
+         "unicode": "1F921",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 6,
+            "name": "face-fantasy"
+         },
+         "children": []
+      },
+      {
+         "id": 95,
+         "name": "pile of poo",
+         "emoji": "💩",
+         "unicode": "1F4A9",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 6,
+            "name": "face-fantasy"
+         },
+         "children": []
+      },
+      {
+         "id": 88,
+         "name": "goblin",
+         "emoji": "👺",
+         "unicode": "1F47A",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 6,
+            "name": "face-fantasy"
+         },
+         "children": []
+      },
+      {
+         "id": 75,
+         "name": "face vomiting",
+         "emoji": "🤮",
+         "unicode": "1F92E",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 4,
+            "name": "face-sick"
+         },
+         "children": []
+      },
+      {
+         "id": 92,
+         "name": "alien",
+         "emoji": "👽",
+         "unicode": "1F47D",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 6,
+            "name": "face-fantasy"
+         },
+         "children": []
+      },
+      {
+         "id": 74,
+         "name": "nauseated face",
+         "emoji": "🤢",
+         "unicode": "1F922",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 4,
+            "name": "face-sick"
+         },
+         "children": []
+      },
+      {
+         "id": 83,
+         "name": "nerd face",
+         "emoji": "🤓",
+         "unicode": "1F913",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 5,
+            "name": "face-role"
+         },
+         "children": []
+      },
+      {
+         "id": 78,
+         "name": "cowboy hat face",
+         "emoji": "🤠",
+         "unicode": "1F920",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 5,
+            "name": "face-role"
+         },
+         "children": []
+      },
+      {
+         "id": 82,
+         "name": "face with monocle",
+         "emoji": "🧐",
+         "unicode": "1F9D0",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 5,
+            "name": "face-role"
+         },
+         "children": []
+      },
+      {
+         "id": 80,
+         "name": "shushing face",
+         "emoji": "🤫",
+         "unicode": "1F92B",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 5,
+            "name": "face-role"
+         },
+         "children": []
+      },
+      {
+         "id": 71,
+         "name": "face with medical mask",
+         "emoji": "😷",
+         "unicode": "1F637",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 4,
+            "name": "face-sick"
+         },
+         "children": []
+      },
+      {
+         "id": 85,
+         "name": "angry face with horns",
+         "emoji": "👿",
+         "unicode": "1F47F",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 6,
+            "name": "face-fantasy"
+         },
+         "children": []
+      },
+      {
+         "id": 81,
+         "name": "face with hand over mouth",
+         "emoji": "🤭",
+         "unicode": "1F92D",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 5,
+            "name": "face-role"
+         },
+         "children": []
+      },
+      {
+         "id": 87,
+         "name": "ogre",
+         "emoji": "👹",
+         "unicode": "1F479",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 6,
+            "name": "face-fantasy"
+         },
+         "children": []
+      },
+      {
+         "id": 76,
+         "name": "sneezing face",
+         "emoji": "🤧",
+         "unicode": "1F927",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 4,
+            "name": "face-sick"
+         },
+         "children": []
+      },
+      {
+         "id": 93,
+         "name": "alien monster",
+         "emoji": "👾",
+         "unicode": "1F47E",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 6,
+            "name": "face-fantasy"
+         },
+         "children": []
+      },
+      {
+         "id": 94,
+         "name": "robot face",
+         "emoji": "🤖",
+         "unicode": "1F916",
+         "category": {
+            "id": 1,
+            "name": "Smileys & People"
+         },
+         "sub_category": {
+            "id": 6,
+            "name": "face-fantasy"
+         },
+         "children": []
+      }
+   ]
+}
