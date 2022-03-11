@@ -31,7 +31,7 @@ app.use(bodyParser.json())
 
 //apply reatjs post
 app.use(cors({
-   origin: "https://20020389.github.io"
+   origin: "https://webapp2-abcbd.web.app"
 }))
 // app.use(function (req, res, next) {
 //    res.setHeader('Access-Control-Allow-Origin', 'https://20020389.github.io');
