@@ -8,7 +8,6 @@ import fileUpload from "express-fileupload";
 import cors from "cors"
 
 const app = express()
-const port = 3001
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -41,9 +40,7 @@ app.use(cors())
 
 route(app)
 
-const server = http.createServer(app)
-
-server.listen(port, () => {
-   // fbListen.start()
-   console.log(`listening ${port}...`);
-})
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+    console.log(`Our app is running on port ${ PORT }`);
+});
