@@ -30,15 +30,17 @@ app.use(express.json())
 app.use(bodyParser.json())
 
 //apply reatjs post
-// app.use(cors())
-app.use(function (req, res, next) {
-   res.setHeader('Access-Control-Allow-Origin', 'https://20020389.github.io');
-   res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
-   res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With,content-type');
-   res.setHeader('Access-Control-Allow-Credentials', true);
-   next();});
+app.use(cors({
+   origin: "https://20020389.github.io"
+}))
+// app.use(function (req, res, next) {
+//    res.setHeader('Access-Control-Allow-Origin', 'https://20020389.github.io');
+//    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
+//    res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With,content-type');
+//    res.setHeader('Access-Control-Allow-Credentials', true);
+//    next();});
 
-route(app)
+// route(app)
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
