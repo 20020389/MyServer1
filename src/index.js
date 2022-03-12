@@ -9,6 +9,13 @@ import cors from "cors"
 
 const app = express()
 
+app.use(function (req, res, next) {
+   res.setHeader('Access-Control-Allow-Origin', '*');
+   res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
+   res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With,content-type');
+   res.setHeader('Access-Control-Allow-Credentials', true);
+   next();});
+
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 export { __dirname }
@@ -33,12 +40,6 @@ app.use(bodyParser.json())
 // app.use(cors({
 //    origin: "https://webapp2-abcbd.web.app"
 // }))
-app.use(function (req, res, next) {
-   res.setHeader('Access-Control-Allow-Origin', '*');
-   res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
-   res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With,content-type');
-   res.setHeader('Access-Control-Allow-Credentials', true);
-   next();});
 
 route(app)
 
