@@ -1,11 +1,9 @@
 import express from 'express'
-import http from 'http'
 import { join, dirname } from 'path'
 import { fileURLToPath } from 'url';
 import bodyParser from 'body-parser'
 import route from './routes/route.js';
 import fileUpload from "express-fileupload";
-import cors from "cors"
 
 const app = express()
 
